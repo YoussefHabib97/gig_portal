@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
+// Screen imports
+import 'package:gig_portal/screens/login_screen.dart';
+
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -16,18 +19,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Sen',
         colorSchemeSeed: const Color(0x0019058c),
       ),
-      home: Scaffold(
-        backgroundColor: Colors.grey[300],
-        body: SafeArea(
-          child: Center(
-            child: Column(
-              children: [
-                Image.asset('assets/images/logo.png'),
-              ],
-            ),
-          ),
-        ),
-      ),
+      home: LoginScreen(),
     );
   }
 }
