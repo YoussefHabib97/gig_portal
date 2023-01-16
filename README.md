@@ -1,16 +1,23 @@
-# gig_portal
+# GIG Egypt Life Takaful Mobile Portal
 
-A new Flutter project.
+A cross-platform mobile application made using Flutter 3.3.10 for GIG Egypt Life Takaful &copy;
 
-## Getting Started
+## Project Objective
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Project Scope
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Used Packages
+
+1. [font_awesome_flutter 10.3.0](https://pub.dev/packages/font_awesome_flutter)
+<!-- 2. second
+2. third -->
+
+#### Documentation Credits
+
+Authored by: @YoussefHabib97
+
+Last Revision: 16/01/2023 by @YoussefHabib97
